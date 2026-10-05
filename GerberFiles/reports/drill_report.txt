@@ -1,0 +1,30 @@
+Drill report for ldo_eval.kicad_pcb
+Created on 2026-10-05T01:39:44
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'ldo_eval-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (9 holes))
+    T2  0.305mm  0.0120"  (117 holes))
+    T3  0.508mm  0.0200"  (19 holes))
+    T4  1.000mm  0.0394"  (81 holes))
+    T5  1.500mm  0.0591"  (4 holes))
+    T6  1.600mm  0.0630"  (16 holes))
+    T7  1.700mm  0.0669"  (16 holes))
+
+    Total plated holes count 262
+
+
+Drill file 'ldo_eval-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
